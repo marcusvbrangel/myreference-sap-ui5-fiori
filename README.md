@@ -7,6 +7,9 @@
 [An Internal Link](/guides/content/editing-an-existing-page)
 
 
+## UI5 Demo Kit
+[UI5 Demo Kit](https://ui5.sap.com//#/)
+
 
 
 

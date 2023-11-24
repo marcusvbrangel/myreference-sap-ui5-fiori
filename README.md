@@ -22,6 +22,11 @@
 -
 
 
+## SAP Certified Development Associate - SAP Fiori Application Developer - C_FIORDEV_22
+[C_FIORDEV_22](https://training.sap.com/certification/c_fiordev_22-sap-certified-development-associate---sap-fiori-application-developer-g/)
+
+
+
 
 
 

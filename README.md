@@ -48,6 +48,10 @@
 [JSON Model](https://sapui5.hana.ondemand.com/sdk/#/topic/96804e3315ff440aa0a50fd290805116.html)
 
 
+## SAP Fiori for Web
+[SAP Fiori for Web](https://experience.sap.com/fiori-design-web/)
+
+
 
 sdf
 sd

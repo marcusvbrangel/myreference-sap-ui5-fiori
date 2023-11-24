@@ -56,6 +56,9 @@
 [Demo Apps](https://ui5.sap.com//sdk#/demoapps)
 
 
+## Developing Apps with SAP Fiori Elements
+[Developing Apps with SAP Fiori Elements](https://ui5.sap.com//sdk#/topic/03265b0408e2432c9571d6b3feb6b1fd)
+
 
 
 sdf

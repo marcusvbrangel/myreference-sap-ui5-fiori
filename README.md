@@ -87,6 +87,10 @@
 [Create an SAPUI5 App from the Command Line](https://developers.sap.com/tutorials/cp-cf-sapui5-local.html)
 
 
+## NPM Easy UI5 Generator
+[NPM Easy UI5 Generator](https://www.npmjs.com/package/generator-easy-ui5)
+
+
 
 
 

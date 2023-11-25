@@ -80,7 +80,11 @@
 -
 
 
+## Get Ready for UI5-Development on Your Local Machine
+[Get Ready for UI5-Development on Your Local Machine](https://developers.sap.com/tutorials/cp-cf-sapui5-local-setup.html)
 
+## Create an SAPUI5 App from the Command Line
+[Create an SAPUI5 App from the Command Line](https://developers.sap.com/tutorials/cp-cf-sapui5-local.html)
 
 
 

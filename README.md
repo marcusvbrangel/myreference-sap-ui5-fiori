@@ -69,6 +69,14 @@
 
 ## UI5 Demo Kit - Development Environment
 [UI5 Demo Kit - Development Environment](https://ui5.sap.com//sdk#/topic/7bb04e05f9484e1b95b38a2e48ecef4f.html)
+[UI5 Tooling](https://sap.github.io/ui5-tooling/stable/)
+[UI5 CLI](https://sap.github.io/ui5-tooling/stable/pages/CLI/)
+[Getting Started](https://sap.github.io/ui5-tooling/stable/pages/GettingStarted/)
+[Consuming SAPUI5 Libraries](https://sap.github.io/ui5-tooling/stable/pages/SAPUI5/)
+
+
+
+
 
 
 

@@ -92,6 +92,9 @@
 
 
 
+## Generator for OpenUI5/SAPUI5 projects
+[Generator for OpenUI5/SAPUI5 projects](https://github.com/ui5-community/generator-ui5-project/)
+
 
 
 sdf

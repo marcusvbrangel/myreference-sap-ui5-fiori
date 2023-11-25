@@ -96,6 +96,10 @@
 [Generator for OpenUI5/SAPUI5 projects](https://github.com/ui5-community/generator-ui5-project/)
 
 
+## UI5 Development Environment 
+[UI5 Development Environment](https://ui5.sap.com//sdk#/topic/7bb04e05f9484e1b95b38a2e48ecef4f.html)
+
+
 
 sdf
 sd

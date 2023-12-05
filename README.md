@@ -11,7 +11,7 @@
 
 
 ## SAP Fiori for Web
-[Fiori for Web Design Guidelines]([https://ui5.sap.com//#/](https://experience.sap.com/fiori-design-web/))
+[Fiori for Web Design Guidelines]([https://ui5.sap.com//#/](https://experience.sap.com/fiori-design-web/)
 
 
 ## UI5 Demo Kit - Get Started: Setup, Tutorials, and Demo Apps

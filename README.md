@@ -6,9 +6,12 @@
 
 [An Internal Link](/guides/content/editing-an-existing-page)
 
+## SAP Fiori
+[SAP Fiori](https://community.sap.com/topics/fiori)
 
-## UI5 Demo Kit
-[UI5 Demo Kit](https://ui5.sap.com//#/)
+
+## SAP Fiori for Web
+[Fiori for Web Design Guidelines]([https://ui5.sap.com//#/](https://experience.sap.com/fiori-design-web/))
 
 
 ## UI5 Demo Kit - Get Started: Setup, Tutorials, and Demo Apps
